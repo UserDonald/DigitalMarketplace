@@ -75,7 +75,8 @@ const Cart = () => {
             >
               <Image
                 src="/hippo-empty-cart.png"
-                fill
+                width={1024}
+                height={1024}
                 alt="Empty Shopping Cart Image"
               />
             </div>
